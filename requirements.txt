@@ -6,3 +6,4 @@ matplotlib
 opencv-python
 google-generativeai
 python-dotenv
+seaborn
